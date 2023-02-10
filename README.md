@@ -64,7 +64,7 @@ proxy Reflect 为什么要配合 proxy劫持 函数 劫持for in
 
 Class 用法 super原理 继承  如何定义私有属性
 
-AMD CMD UMD CJS  ESM 的区别
+AMD CMD UMD CJS  ESM  IIFE 的区别
 
 Promise 静态方法 以及 all 实现原理 有限状态机
 
