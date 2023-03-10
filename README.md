@@ -145,3 +145,10 @@ Vue-router 原理 hash 和 history 以及 对应微前端
 Pinia vuex 设计模式 以及实现原理 为什么刷新数据丢失 以及解决方案
 
 AOT 和 JIT 的区别
+
+动态扩容 动态缩容怎么做
+
+nginx 四层LB负载均衡 nginx七层LSB 负载均衡怎么做 nginx多机房异地容灾怎么做
+
+网关怎么做 网关熔断怎么做 网关分流怎么做 网关加密怎么做
+
