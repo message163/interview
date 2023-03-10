@@ -143,3 +143,5 @@ Vue3 keep-alive LRU 算法以及原理介绍
 Vue-router 原理 hash 和 history 以及 对应微前端
 
 Pinia vuex 设计模式 以及实现原理 为什么刷新数据丢失 以及解决方案
+
+AOT 和 JIT 的区别
