@@ -7,6 +7,8 @@
 
 HTML 的字符实体是什么
 
+js底层数据结构如何存储在V8里面
+
 H5新特性
 
 如果提到localstorage 就追问 localstorage API 以及 localStorage 实现原理 以及 localStorage 存在哪儿 以及localStorage 跨域
@@ -31,7 +33,7 @@ BFC
 
 回流与重绘 以及优化方案
 
-webComponents 以及 微前端
+webComponents 以及 微前端 以及 emp 模块联邦
 
 Css盒模型 和 怪异盒模型区别 以及统一策略
 
@@ -116,6 +118,8 @@ nodejs 是否用过
 
 Npm 是什么  package-lock.json 是做什么的 npm 缓存原理
 
+pnpm 实现原理 以及 monorepo 架构
+
 如何发布 npm 包 有没有发过 自己的 npm包  周下载量多少
 
 webpack  vite rollup esbuild
@@ -146,7 +150,7 @@ Pinia vuex 设计模式 以及实现原理 为什么刷新数据丢失 以及解
 
 AOT 和 JIT 的区别
 
-动态扩容 动态缩容怎么做
+扩容 动态缩容怎么做
 
 nginx 四层LB负载均衡 nginx七层LSB 负载均衡怎么做 nginx多机房异地容灾怎么做
 
