@@ -122,7 +122,7 @@ pnpm 实现原理 以及 monorepo 架构
 
 如何发布 npm 包 有没有发过 自己的 npm包  周下载量多少
 
-webpack  vite rollup esbuild
+webpack  vite rollup esbuild swc gulp
 
 Webpack 脱口而出的配置 webpack 分包  webpack 打包优化    webpack打包原理 以及 HMR 原理
 
