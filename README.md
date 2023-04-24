@@ -104,7 +104,9 @@ webRTC 架构 如何 实现推流 拉流
 
 浏览器输入一个url 发生了什么  追问OSI 七层网络模型 三次握手 http https 区别 http1 2 3 区别 强缓存 协商缓存
 
+TCP 跟 UDP 的区别 
 
+TCP 的 超时重传协议 滑动窗口思想
 
 Ajax fetch  navigator.sendBeacon  三个的区别
 
