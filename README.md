@@ -104,13 +104,15 @@ webRTC 架构 如何 实现推流 拉流
 
 浏览器输入一个url 发生了什么  追问OSI 七层网络模型 三次握手 http https 区别 http1 2 3 区别 强缓存 协商缓存
 
+
+
 Ajax fetch  navigator.sendBeacon  三个的区别
 
 nodejs 是否用过
 
 是否用过一些库 如 express koa  nest  追问用的什么数据库 以及高速缓存 如 redis ，用的什么ORM框架，如果熟悉express 追问 中间件原理，熟悉nest 追问 ioc控制反转 DI 依赖注入 设计模式  以及MVC 架构 和MVVM 区别 继续追问nest rxjs 库用法 以及原理 继续追问nest 微服务 gRPC MQ 以及网关 。
 
-聊聊数据库 mysql 底层数据结构 为什么使用B+ 树，继续追问 mysql事务  追问悲观锁和乐观锁
+聊聊数据库 mysql 底层数据结构 为什么使用B+ 树，继续追问 mysql事务以及四大特性  追问悲观锁和乐观锁
 
 聊聊redis  redis是单线程还是多线程 以及底层原理
 
