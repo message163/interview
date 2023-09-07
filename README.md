@@ -27,6 +27,8 @@ H5新特性
 
 如果提到webWorker 就追问 webWorker 用法 以及实现原理
 
+浏览器如何跨tab页通讯？
+
 如何区分强网弱网
 
 什么是灰度
@@ -175,6 +177,7 @@ nginx lua插件怎么写
 网关怎么做 网关熔断怎么做 网关分流怎么做 网关加密怎么做
 
 FPS 帧率 requestIdleCallback performance
+
 
 
 
