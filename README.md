@@ -11,6 +11,8 @@ CPU 执行原理 以及冯诺依曼体系结构
 
 说一下 LHS  RHS 是什么
 
+100T 文件如何遍历里面的信息?
+
 介绍一下dll 文件
 
 HTML 的字符实体是什么
@@ -125,6 +127,8 @@ nodejs-napi addon
 是否用过一些库 如 express koa  nest  追问用的什么数据库 以及高速缓存 如 redis ，用的什么ORM框架，如果熟悉express 追问 中间件原理，熟悉nest 追问 ioc控制反转 DI 依赖注入 设计模式  以及MVC 架构 和MVVM 区别 继续追问nest rxjs 库用法 以及原理 继续追问nest 微服务 gRPC MQ 以及网关 。
 
 聊聊数据库 mysql 底层数据结构 为什么使用B+ 树，继续追问 mysql事务以及四大特性  追问悲观锁和乐观锁
+
+数据库的引擎？
 
 聊聊redis  redis是单线程还是多线程 以及底层原理
 
