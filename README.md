@@ -176,6 +176,8 @@ AOT 和 JIT 的区别
 
 nginx 四层LB负载均衡 nginx七层LSB 负载均衡怎么做 nginx多机房异地容灾怎么做
 
+两地三中心 怎么做？
+
 nginx源码中的unix域是怎么做的 做什么的
 
 nginx lua插件怎么写
