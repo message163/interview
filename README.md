@@ -186,6 +186,120 @@ nginx lua插件怎么写
 
 FPS 帧率 requestIdleCallback performance
 
+# java面试题
+
+什么是服务熔断？什么是服务降级？
+
+Eureka和zookeeper都可以提供服务注册与发现的功能，请说说两个的区别？
+
+SpringBoot和SpringCloud的区别？
+
+SpringBoot和SpringCloud的区别？
+
+什么是 feigin ？它的优点是什么？
+
+Ribbon和Feign的区别？
+
+# springBoot
+
+Spring Boot 的核心注解是哪个？它主要由哪几个注解组成的？
+
+运行Spring Boot有哪几种方式？
+
+如何理解 Spring Boot 中的 Starters？
+
+如何在Spring Boot启动的时候运行一些特定的代码？
+
+Spring Boot 需要独立的容器运行吗？
+
+Spring Boot中的监视器是什么？
+
+如何使用Spring Boot实现异常处理？
+
+你如何理解 Spring Boot 中的 Starters？
+
+springboot常用的starter有哪些
+
+SpringBoot 实现热部署有哪几种方式？
+
+如何理解 Spring Boot 配置加载顺序？
+
+Spring Boot 的核心配置文件有哪几个？它们的区别是什么？
+
+如何集成 Spring Boot 和 ActiveMQ？
+
+# redis
+
+Redis篇
+
+为什么要用缓存
+
+说说 Redis 的线程模型
+
+Redis 持久化方式有哪些？以及有什么区别？
+
+怎么使用 Redis 实现消息队列？
+
+说说你对Redis事务的理解
+
+熟悉哪些 Redis 集群模式？
+
+Redis 常见性能问题和解决方案有哪些？
+
+Redis 报内存不足怎么处理？
+
+说说Redis持久化机制
+
+缓存雪崩、缓存穿透、缓存预热、缓存更新、缓存降级等问
+
+redis的数据类型，以及每种数据类型的使用场景
+
+Redis 为什么是单线程的
+
+Redis 常见性能问题和解决方案？
+
+了解Redis的事务吗？
+
+Redis 的数据类型及使用场景
+
+# 数据结构和算法
+
+队列和栈是什么，列出它们的区别
+
+BlockingQueue是什么
+
+简述 ConcurrentLinkedQueue LinkedBlockingQueue 的用处和不同之处。
+
+ByteBuffer 与 StringBuffer有什么区别
+
+HashMap的工作原理是什么
+
+HashMap 的 table的容量如何确定？loadFactor 是什么？ 该容量如何变化？这种变化会带来什么问题？
+
+HashMap 和 HashTable、ConcurrentHashMap 的区别
+
+HashMap的遍历方式及效率
+
+如果HashMap的大小超过了负载因子(load factor)定义的容量，怎么办
+
+HashMap 是线程安全的吗？并发下使用的 Map 是什么，它们内部原理分别是什么，比如存储方式、 hashcode、扩容、 默认容量等
+
+HashSet和TreeSet有什么区别
+
+WeakHashMap 是怎么工作的？
+
+LinkedHashMap 和 PriorityQueue 的区别是什么
+
+LinkedList 是单向链表还是双向链表
+
+LinkedList 与 ArrayList 有什么区别
+
+ArrayList 和 HashMap 的默认大小是多数
+
+ArrayList 和 LinkedList 的区别，什么时候用 ArrayList？
+
+ArrayList 和 Set 的区别？
+
 
 
 
